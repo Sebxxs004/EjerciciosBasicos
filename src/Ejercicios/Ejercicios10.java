@@ -18,4 +18,8 @@ public class Ejercicios10 {
         notaF = nota1+nota2+nota3;
         System.out.println("Su nota final es: " + notaF);
     }
+    public static void main(String[] args){
+        Ejercicios10 n = new Ejercicios10();
+        n.Notas();
+    }
 }

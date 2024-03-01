@@ -17,4 +17,8 @@ public class Ejercicios9 {
         vTotal = pBase-descuento;
         System.out.println("El precio total es "+vTotal);
     }
+    public static void main(String[] args){
+        Ejercicios9 n = new Ejercicios9();
+        n.compra();
+    }
 }

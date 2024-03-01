@@ -18,4 +18,8 @@ public class Ejercicio26 {
             System.out.println();
         }
     }
+    public static void main(String[] args){
+        Ejercicio26 n = new Ejercicio26();
+        n.piramide();
+    }
 }

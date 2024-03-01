@@ -14,4 +14,8 @@ public class Ejercicio23 {
         }
         System.out.println("El total de lo que pagará después de " + meses + " meses es: " + totalPago + " €");
     }
+    public static void main(String[] args){
+        Ejercicio23 n = new Ejercicio23();
+        n.pagos();
+    }
 }

@@ -17,4 +17,8 @@ public class Ejercicio20 {
             System.out.println("Usted tiene " + cant + "Euros");
         }
     }
+    public static void main(String[] args){
+        Ejercicios20 n = new Ejercicios20();
+        n.contar();
+    }
 }

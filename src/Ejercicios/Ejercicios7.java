@@ -17,4 +17,8 @@ public class Ejercicios7 {
         minutosR = minutos%60;
         System.out.println("Hay: "+horas+" hrs y " +minutosR+" minuto restantes.");
     }
+    public static void main(String[] args){
+        Ejercicios7 n = new Ejercicios7();
+        n.Hora();
+    }
 }

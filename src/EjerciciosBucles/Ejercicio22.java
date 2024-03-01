@@ -15,4 +15,8 @@ public class Ejercicio22 {
         System.out.printf("El resultado es: "+resultado);
 
     }
+    public static void main(String[] args){
+        Ejercicio22 n = new Ejercicio22();
+        n.exponentes();
+    }
 }

@@ -30,5 +30,9 @@ public class Ejercicio25 {
         }
         return true;
     }
+    public static void main(String[] args){
+        Ejercicio25 n = new Ejercicio25();
+        n.primos();
+    }
 }
 

@@ -39,4 +39,8 @@ public class Ejercicio24 {
             }
         }
     }
+    public static void main(String[] args){
+        Ejercicio24 n = new Ejercicio24();
+        n.cronometro();
+    }
 }

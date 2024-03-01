@@ -34,4 +34,8 @@ public class Ejercicio28 {
             System.out.println();
         }
     }
+    public static void main(String[] args){
+        Ejercicio28 n = new Ejercicio28();
+        n.array2();
+    }
 }

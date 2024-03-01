@@ -19,4 +19,8 @@ public class Ejercicio27 {
             System.out.println(numeros[i]);
         }
     }
+    public static void main(String[] args){
+        Ejercicio27 n = new Ejercicio27();
+        n.array1();
+    }
 }

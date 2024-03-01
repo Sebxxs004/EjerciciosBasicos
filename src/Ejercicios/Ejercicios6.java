@@ -16,4 +16,8 @@ public class Ejercicios6 {
         suma = num1+num2+num3;
         System.out.println("La suma de los 3 números es: " + suma);
     }
+    public static void main(String[] args){
+        Ejercicios6 n = new Ejercicios6();
+        n.sumar();
+    }
 }

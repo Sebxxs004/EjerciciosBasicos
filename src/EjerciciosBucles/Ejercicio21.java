@@ -39,4 +39,8 @@ public class Ejercicio21 {
         }
 
     }
+    public static void main(String[] args){
+        Ejercicio21 n = new Ejercicio21();
+        n.intervalos();
+    }
 }

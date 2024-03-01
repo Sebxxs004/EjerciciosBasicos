@@ -20,4 +20,8 @@ public class Ejercicios11 {
         }
         System.out.println("La distancia es: " + m + " metros.");
     }
+    public static void main(String[] args){
+        Ejercicios11 n = new Ejercicios11();
+        n.distancia();
+    }
 }

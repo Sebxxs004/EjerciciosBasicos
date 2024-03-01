@@ -41,4 +41,8 @@ public class Ejercicio30 {
         }
         System.out.println("\nSuma total: " + sumaTotal);
     }
+    public static void main(String[] args){
+        Ejercicio30 n = new Ejercicio30();
+        n.array4();
+    }
 }

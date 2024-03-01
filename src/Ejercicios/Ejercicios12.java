@@ -21,4 +21,8 @@ public class Ejercicios12 {
         System.out.println("La distancia entre los puntos es: " + distancia);
 
     }
+    public static void main(String[] args){
+        Ejercicios12 n = new Ejercicios12();
+        n.Distancia();
+    }
 }

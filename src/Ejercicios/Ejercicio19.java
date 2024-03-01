@@ -12,4 +12,8 @@ public Ejercicio19{
         noR = i.nextInt();
         notaF = pBuenas - pMalas;
     }
+        public static void main(String[] args){
+        Ejercicios19 n = new Ejercicios19();
+        n.notas();
+        }
 }

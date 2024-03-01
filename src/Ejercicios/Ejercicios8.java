@@ -24,5 +24,9 @@ public class Ejercicios8 {
         sueldoF = sueldo+comision;
         System.out.println("El sueldo final es: "+sueldoF);
     }
+    public static void main(String[] args){
+        Ejercicios8 n = new Ejercicios8();
+        n.Sueldo();
+    }
     
 }
